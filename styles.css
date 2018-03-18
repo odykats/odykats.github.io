@@ -1,0 +1,89 @@
+.navbar {
+  font-family: 'Montserrat';
+}
+
+.container-fluid {
+  background-color: #1a1a1a;
+}
+
+#picheading {
+  background: url("https://source.unsplash.com/ZMraoOybTLQ");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  /*height: 775px;*/
+}
+
+#heading {
+  text-align: right;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-right: 30px;
+  font-family: 'Montserrat';
+}
+
+#name {
+  font-size: 3.5em;
+  color: black;
+}
+
+.block {
+  text-align: center;
+  font-family: 'Montserrat';
+}
+
+#about {
+  background-color: #1a1a1a;
+  color: white;
+  padding: 100px;
+}
+
+#project {
+  background-color: white;
+  color: #1a1a1a;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#contact {
+  background-color: #1a1a1a;
+  color: white;
+  padding: 100px;
+}
+
+hr {
+  width: 35%;
+}
+
+.padbottom {
+  padding-bottom: 15px;
+}
+
+#padtop {
+  padding-top: 15px;
+}
+
+#input {
+  background-color: #1a1a1a;
+  border-left: #1a1a1a;
+  border-top: #1a1a1a;
+  border-right: #1a1a1a;
+  outline: none;
+  margin-top: 15px;
+  width: 100%;
+  max-width: 400px;
+}
+
+textarea {
+  height: 100px;
+  border-bottom: 2px solid white;
+  resize: none;
+}
+
+#button {
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  color: #1a1a1a !important;
+  margin-top: 15px;
+}
