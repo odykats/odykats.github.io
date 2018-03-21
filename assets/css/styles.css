@@ -91,11 +91,11 @@ textarea {
   display: inline-block;
   padding: 60px;
   font-size: 100px;
-  color: white;
+  color: white !important;
 }
 
 #icons a:visited {
-  color: white;
+  color: white !important;
 }
 
 #icons a:hover {
