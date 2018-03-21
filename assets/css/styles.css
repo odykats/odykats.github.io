@@ -94,6 +94,10 @@ textarea {
   color: white !important;
 }
 
+#icons a:link {
+  color: white !important;
+}
+
 #icons a:visited {
   color: white !important;
 }
